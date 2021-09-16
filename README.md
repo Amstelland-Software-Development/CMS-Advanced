@@ -14,4 +14,4 @@ Zo leer je o.a. een Child Theme te maken en te werken met categorieën en tags. 
 
 Bij de uitvoering loop je misschien nog tegen vraagstukken aan. Raadpleeg dan eerst de videolessen van CMS Basic voordat je een hulpaanvraag doet.
 
-Veel succes!
+Veel succes!!
